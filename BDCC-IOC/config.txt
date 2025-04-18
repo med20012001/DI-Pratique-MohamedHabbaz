@@ -1,0 +1,2 @@
+net.habbaz.ext.DaoImplV2
+net.habbaz.metier.MetierImpl
